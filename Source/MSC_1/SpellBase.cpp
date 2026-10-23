@@ -37,6 +37,6 @@ void ASpellBase::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	SetActorLocation(GetActorLocation() + GetActorForwardVector() * DeltaTime * 500.0f);
+	SetActorLocation(GetActorLocation() + GetActorForwardVector() * DeltaTime * 5000.0f);
 }
 

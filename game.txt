@@ -1,0 +1,38 @@
+Le joueur est un mage prennant des comissions de sort
+
+Le jeu se passe dans le laboratoire du mage avec ses différents outils et livre/manuel util à la création de
+sort
+
+Le laboratoire est au début délabrer et presque vide
+
+Le joueur complète les comissions pour gagner de l'or et améliorer son laboratoire pour obtenir de 
+nouveau matériaux de craft et ce simplifier la vie
+
+Un sort est fait de plusieurs type de composants :
+	- Rune
+	- concoction
+	- parchemin
+	- incantation
+	- matériaux rare
+	- ...
+	
+Différents type de composants s'obtiennent avec différents minijeux
+
+Un minijeu à un % de réussite, + un minijeu est réussi, + un composant est créer corrèctement.
+Et + les composants sont créé corrèctement, + le sort fini sera fonctionnel
+
+Un minijeu avec un trop faible % de réussite échoue et peut causé des effets négatifs
+
+Une fois un sort fini, le joueur peux le testé dans un espace dédié afin de l'étudier et vérifier sa
+fonctionnalité
+
+Le joueur commence sans indication sur ce que font les différentes combinaisons de composant ou d'ingrédients
+il le découvre de lui même en expérimantant avec ce qu'il a à disposition après un cours tuto sur comment
+ça fonctionne.
+
+Exemple améliorations du laboratoir :
+	- Livre d'enregistrement -> Crée un nouveaux livre pour chaque nouvelle découverte et remplit les 
+	infos et effets au fur et à mesure de tests
+	- Étagère -> ajoute une nouvelle étagère pour ranger les livres
+	- source élémentaire -> ajoute la source élémentaire choisit
+	- 
